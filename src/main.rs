@@ -7,9 +7,10 @@ fn main() {
     // println!("{}",x);
     
     let name = String::from("shivam");
-    print!("{}",name);
+    let _surname = "kushwah";
+    print!("{}\n",name);
+    print!("{}\n",_surname);
 
-     
 }
 
 
